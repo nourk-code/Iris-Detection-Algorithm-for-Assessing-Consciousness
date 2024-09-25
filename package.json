@@ -1,9 +1,11 @@
 {
   "name": "python-iris-backend",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js", 
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",  
+    "install-python": "pip install -r requirements.txt",  
+    "build": "npm install && npm run install-python" 
   },
   "keywords": [],
   "author": "",
