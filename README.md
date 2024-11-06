@@ -6,21 +6,21 @@ This project features an iris detection algorithm designed to assess consciousne
 
 ## Key Features 
 
-Machine Learning-Based Calculation: Utilizes advanced image processing to accurately identify the iris and pupil in an eye image. 
+* Machine Learning-Based Calculation: Utilizes advanced image processing to accurately identify the iris and pupil in an eye image. 
 
-Consciousness Assessment: Determines consciousness levels by calculating the iris-to-pupil ratio, with a threshold ratio (e.g., around 1.4) indicating a conscious state. 
+* Consciousness Assessment: Determines consciousness levels by calculating the iris-to-pupil ratio, with a threshold ratio (e.g., around 1.4) indicating a conscious state. 
 
-Medical Recognition: The feature has been acknowledged by doctors for its practical application in patient assessments. 
+* Medical Recognition: The feature has been acknowledged by doctors for its practical application in patient assessments. 
 
 ## How It Works 
 
-The algorithm processes an input image or a real-time capture from a camera. 
+* The algorithm processes an input image or a real-time capture from a camera. 
 
-It identifies the eye's key structures and measures the iris and pupil diameters. 
+* It identifies the eye's key structures and measures the iris and pupil diameters. 
 
-The calculated iris-to-pupil ratio is displayed on the upper part of the screen, showing if the person is likely conscious or unconscious. 
+* The calculated iris-to-pupil ratio is displayed on the upper part of the screen, showing if the person is likely conscious or unconscious. 
 
-The user can end the session by pressing the 'q' key. 
+* The user can end the session by pressing the 'q' key. 
 
 ## Visual Representation 
 
@@ -30,16 +30,16 @@ The user can end the session by pressing the 'q' key.
 
 ## Technical Details 
 
-Programming Language: Python 
+* Programming Language: Python 
 
-Libraries Used: OpenCV for image processing and computer vision, NumPy for numerical operations. 
+* Libraries Used: OpenCV for image processing and computer vision, NumPy for numerical operations. 
 
-Platform: Developed using the Spyder IDE. 
+* Platform: Developed using the Spyder IDE. 
 
 ## Future Enhancements 
 
-Integrating real-time video feed for continuous monitoring. 
+* Integrating real-time video feed for continuous monitoring. 
 
-Optimizing performance for faster processing on mobile devices. 
+* Optimizing performance for faster processing on mobile devices. 
 
  
